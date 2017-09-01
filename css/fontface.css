@@ -1,0 +1,29 @@
+@font-face{
+	font-family:'PFDinText';
+	src: url('../fonts/pfdintextcomppro-regular-webfont.eot?') format('embedded-opentype'),
+		url('../fonts/pfdintextcomppro-regular-webfont.woff') format('woff'),
+		url('../fonts/pfdintextcomppro-regular-webfont.ttf') format('truetype'),
+		url('../fonts/pfdintextcomppro-regular-webfont.svg#SegoeWP-Light') format('svg');
+	font-weight:normal;
+	font-style:normal;
+}
+@font-face {
+    font-family: 'PFDinText M';
+    src: url('../fonts/pfdintextcomppro-medium-webfont.eot');
+    src: url('../fonts/pfdintextcomppro-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-medium-webfont.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-medium-webfont.ttf') format('truetype'),
+         url('../fonts/pfdintextcomppro-medium-webfont.svg#PFDinTextCompProMediumRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face{
+	font-family:'OpenSans Bold';
+	src:url('../fonts/opensans-bold-webfont.eot?') format('embedded-opentype'),
+		url('../fonts/opensans-bold-webfont.woff') format('woff'),
+		url('../fonts/opensans-bold-webfont.ttf') format('truetype'),
+		url('../fonts/opensans-bold-webfont.svg#SegoeWP') format('svg');
+	font-weight:normal;
+	font-style:normal;
+}
